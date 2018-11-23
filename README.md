@@ -7,7 +7,7 @@ This is the official source code for the Open Google Calendar (Thunderbird Add-o
 It's a fork of repository archived : https://github.com/clarkbw/google-calendar-tab but compatible with Thunderbird Version 60.*
 
 This extension uses the new special tab features of Thunderbird 3 to open Google
-Calendar inside a Thunderbird tab.  The Google Calendar Tab extension was created
+Calendar inside a Thunderbird tab.  The Open Google Calendar extension was created
 as an example extension which could be copied for other sites to use.  Eventually
 this system will likely be replaced by something like Jetpack for Thunderbird
 which would make it much easier to create and distribute simple tab opening
