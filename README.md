@@ -25,11 +25,11 @@ will be prompted by a notification bar which can save your username and password
 for the site.  This password can be removed from the Security -> Passwords
 section of your preferences.
 
-## Contributing
+## Contributing
 
 See [Contributing](CONTRIBUTING.md) for more details on how you can help.
 
-## License MIT
+## License GPL-2
 
 ## Contact
 
