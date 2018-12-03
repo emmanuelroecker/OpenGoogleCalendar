@@ -1,10 +1,10 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/emmanuelrkr)
 
-# Open Google Calendar
+# [Open Google Calendar](https://addons.thunderbird.net/fr/thunderbird/addon/open-google-calendar/)
 
-This is the official source code for the Open Google Calendar (Thunderbird Add-on).
+This is the official source code for the [Open Google Calendar (Thunderbird Add-on)](https://addons.thunderbird.net/fr/thunderbird/addon/open-google-calendar).
 
-It's a fork of repository archived : https://github.com/clarkbw/google-calendar-tab but compatible with Thunderbird Version 60.*
+It's a fork of repository archived [Google Calendar Tab](https://github.com/clarkbw/google-calendar-tab) but compatible with Thunderbird Version 60.*
 
 This extension uses the new special tab features of Thunderbird 3 to open Google
 Calendar inside a Thunderbird tab.  The Open Google Calendar extension was created
