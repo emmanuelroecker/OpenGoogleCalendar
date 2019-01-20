@@ -92,6 +92,9 @@ for ROOT_FILE in $ROOT_FILES install.rdf chrome.manifest; do
   fi
 done
 
+# Copy icons webextension
+cp -vr icons $TMP_DIR
+
 cd $TMP_DIR
 
 if [ -f "chrome.manifest" ]; then
