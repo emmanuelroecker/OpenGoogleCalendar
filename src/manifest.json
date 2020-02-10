@@ -31,5 +31,10 @@
     "webNavigation",
     "cookies"
   ],
+  "applications": {
+    "gecko": {
+        "id": "opengooglecalendar@glicer"
+    }
+  },
   "version": "1.5"
 }
