@@ -3,7 +3,7 @@
     "gecko": {
       "id": "opengooglecalendar@glicer",
       "strict_min_version": "65.0b2",
-      "strict_max_version": "69.*"
+      "strict_max_version": "78.*"
     }
   },
   "background": {
@@ -36,5 +36,5 @@
         "id": "opengooglecalendar@glicer"
     }
   },
-  "version": "1.5"
+  "version": "1.6"
 }
